@@ -244,6 +244,15 @@ function GraphicResume() {
   )
 }
 
+function FamilyFeud() {
+  return(
+    <iframe
+      src="https://rperry2174-family-feud.s3-us-west-2.amazonaws.com/webgl_build_02/index.html"
+      style={{ width: "100%", height:"100%", style:"border: none;"}}>
+    </iframe>
+  )
+}
+
 function PrivacyPolicy() {
   return(
     <div>
@@ -381,6 +390,7 @@ function FinalApp() {
         <Route exact path="/professional-resume" component={ProfessionalResume}></Route>
         <Route exact path="/graphic-resume" component={GraphicResume}></Route>
         <Route exact path="/broken_tv/privacy" component={PrivacyPolicy}></Route>
+        <Route exact path="/family_feud" component={FamilyFeud}></Route>
         <Route component={NoMatch} />
       </Switch>
     </Router>
