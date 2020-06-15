@@ -205,10 +205,10 @@ function App() {
             blogPublisherName="MEDIUM"
           ></Blog>
           <Blog
-            href="https://medium.com/better-programming/i-a-b-tested-resume-formats-which-jon-snow-gets-hired-cd206f62d15a"
-            blogPreviewImage="https://ryaperry-bucket.s3-us-west-2.amazonaws.com/john_snow_vs.png"
-            blogTitle="I A/B Tested Resume Formats: Which Jon Snow Gets Hired?"
-            blogSubtitle="Does colorful and graphic beat plain and professional?"
+            href="https://medium.com/@rperry2174/what-i-learned-publishing-my-first-mobile-game-d73d09a52a4f"
+            blogPreviewImage="https://ryaperry-bucket.s3-us-west-2.amazonaws.com/what-i-learned-publishing-my-first-mobile-game.png"
+            blogTitle="What I Learned Publishing My First Mobile Game"
+            blogSubtitle="And some statistics on how it performed"
             blogPublisherLogo="https://ryaperry-bucket.s3-us-west-2.amazonaws.com/medium.png"
             blogPublisherName="MEDIUM"
           ></Blog>
@@ -217,6 +217,14 @@ function App() {
             blogPreviewImage="https://ryaperry-bucket.s3-us-west-2.amazonaws.com/how_to_make_a_snapchat_lens.png"
             blogTitle="How To Make a “Joker” Snapchat Lens in 5 Steps"
             blogSubtitle="And why Snapchat lenses will become a bigger part of marketing strategies"
+            blogPublisherLogo="https://ryaperry-bucket.s3-us-west-2.amazonaws.com/medium.png"
+            blogPublisherName="MEDIUM"
+          ></Blog>
+          <Blog
+            href="https://medium.com/better-programming/i-a-b-tested-resume-formats-which-jon-snow-gets-hired-cd206f62d15a"
+            blogPreviewImage="https://ryaperry-bucket.s3-us-west-2.amazonaws.com/john_snow_vs.png"
+            blogTitle="I A/B Tested Resume Formats: Which Jon Snow Gets Hired?"
+            blogSubtitle="Does colorful and graphic beat plain and professional?"
             blogPublisherLogo="https://ryaperry-bucket.s3-us-west-2.amazonaws.com/medium.png"
             blogPublisherName="MEDIUM"
           ></Blog>
